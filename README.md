@@ -29,7 +29,7 @@ Related videos:
 - DIY Volume Control - https://youtu.be/jvHRfsgw4l8
 - Knob over OLED Display - https://youtu.be/SmbcNx7tbX8
 
-
+_This video is sponsored by PCBWay. If you use this link, you can get 10 PCBs for free and only pay for shipping. At the same time, you will support my YouTube channel, and I will record more videos. https://www.pcbway.com/setinvite.aspx?inviteid=572577_
 
 
 
