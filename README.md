@@ -1,5 +1,5 @@
 # Arduino UNO R3 + NeoPixel ring + Rotary Encoder = Something Nice
-Arduino UNO R3 + NeoPixel ring + Rotary Encoder = Something Nice
+Learn how to use NeoPixel rings with Arduino UNO and a rotary encoder. NeoPixels are great, because you need only one data wire to control any number of pixels you want, allowing to show any color. This simplifies the wiring and with a great library from Adafruit, the coding is simple as well. I hope to continue with this project in the future and create my own NeoPixel ring, using smaller NeoPixels to fit more pixels around the circle. 
 
 **YouTube video: https://youtu.be/JK3KePYrkYY**
 
